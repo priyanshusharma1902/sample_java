@@ -5,6 +5,7 @@ public class Test {
     int a=48;
     int b=65;
     int result = a*b;
+    //result is multiplication of two numbers
     System.out.println("The sum is " +result);
     
   }
